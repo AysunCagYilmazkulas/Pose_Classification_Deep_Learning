@@ -18,4 +18,4 @@ To preparing this data, examine the "creating_csv_file.ipynb" file. It creates "
 
 <img width="768" alt="result" src="https://user-images.githubusercontent.com/63105388/222620010-c3c11ad7-6cf1-46c7-b1fa-5f4cf907b259.png">
 
-As a result of these processes, the model was tested and the following results were obtained with 100% accuracy.
+As a result of these processes, the model was created as "goodmorning_model.tflite" and tested. The following results were obtained with 100% accuracy.
