@@ -10,4 +10,8 @@ Please consider the following explanations while working on the code.
 
 To preparing this data, examine the "creating_csv_file.ipynb" file.
 
-3. 
+3. The accuracy of the movement was estimated by following the distances between the joints during the movements. For this reason, the distances between the joints whose coordinates were determined and their ratio to torso were calculated using the "landmark_distance.ipynb" file and a new csv file was created.
+
+<img width="669" alt="Screenshot 2023-03-02 at 9 42 04 PM" src="https://user-images.githubusercontent.com/63105388/222618444-ad14e40f-040c-455d-aa33-2b39cd406018.png">
+
+4.  
