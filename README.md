@@ -14,7 +14,7 @@ To preparing this data, examine the "creating_csv_file.ipynb" file. It creates "
 
 <img width="669" alt="Screenshot 2023-03-02 at 9 42 04 PM" src="https://user-images.githubusercontent.com/63105388/222618444-ad14e40f-040c-455d-aa33-2b39cd406018.png">
 
-4.  After the above-mentioned operations, our dataset will be ready. The model creation process was carried out with the "goodmorning_distance_embedding_model.ipynb" file and the csv file we prepared.
+4.  After the above-mentioned operations, our dataset will be ready. The model creation process was carried out with the "tf_model.ipynb" file and the csv file we prepared.
 
 <img width="768" alt="result" src="https://user-images.githubusercontent.com/63105388/222620010-c3c11ad7-6cf1-46c7-b1fa-5f4cf907b259.png">
 
